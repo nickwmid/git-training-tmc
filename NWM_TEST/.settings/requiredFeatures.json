@@ -34,6 +34,8 @@
   }, {
     "id" : "org.talend.lite.di.cdc.feature.feature.group"
   }, {
+    "id" : "org.talend.lite.di.component.rabbitmq.feature.feature.group"
+  }, {
     "id" : "org.talend.lite.di.importation.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.jobscript.feature.feature.group"
